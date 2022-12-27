@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻📧
-## 🛠️tech stack 
+## 💻 
+
+## 📧 E-mail
+wofla2592@naver.com
+<img alt="wofla2592@naver.com" src="https://img.shields.io/badge/Gmail-green.svg?&style=for-the-badge&logo=#EA4335&logoColor=white"/> 
+#EA4335
+
+## 🛠️Tech Stack 
 
 <img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
