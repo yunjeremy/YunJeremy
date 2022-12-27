@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 📧 E-mail
 wofla2592@naver.com
-<img alt="#EA4335" src="https://img.shields.io/badge/wofla2592@naver.com-green.svg?&style=for-the-badge&logo=#EA4335&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gmail-wofla2592@naver.com-green.svg?&style=for-the-badge&logo=#EA4335&logoColor=white"/> 
 #EA4335
 
 ## 🛠️Tech Stack 
