@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 💻📧
 ## 🛠️tech stack 
 <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C&logoColor=black">
-<img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
