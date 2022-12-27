@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**yunjeremy/YunJeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20😎&fontSize=90&fontcolor=white" />
 
 ## 👋Welcome
@@ -23,10 +5,9 @@ Here are some ideas to get you started:
 
 ## 💻 
 
-## 📧 E-mail
-wofla2592@naver.com
-<img src="https://img.shields.io/badge/Gmail-wofla2592@naver.com-green.svg?&style=for-the-badge&logo=#EA4335&logoColor=white"/> 
-#EA4335
+## 🕴️ 나를 표현하는 5가지 단어
+🐂꾸준함 ❔호기심 😠의지 👓몰두 👽상상력 
+
 
 <h3 align="center"> 🛠️Tech Stack </h3>
 <div align="center">
