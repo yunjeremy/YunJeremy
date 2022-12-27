@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20😎&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello%20😎&fontSize=90&fontcolor=white" />
 
 ## 👋Welcome
 
@@ -29,6 +29,7 @@ wofla2592@naver.com
 #EA4335
 
 <h3 align="center"> 🛠️Tech Stack </h3>
-
+<div align="center">
+  
 <img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
